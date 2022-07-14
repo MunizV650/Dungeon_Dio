@@ -1,0 +1,15 @@
+C:\development\workspace\dotnet\Dungeon_Dio\bin\Debug\net6.0\Dungeon_Dio.exe
+C:\development\workspace\dotnet\Dungeon_Dio\bin\Debug\net6.0\Dungeon_Dio.deps.json
+C:\development\workspace\dotnet\Dungeon_Dio\bin\Debug\net6.0\Dungeon_Dio.runtimeconfig.json
+C:\development\workspace\dotnet\Dungeon_Dio\bin\Debug\net6.0\Dungeon_Dio.dll
+C:\development\workspace\dotnet\Dungeon_Dio\bin\Debug\net6.0\Dungeon_Dio.pdb
+C:\development\workspace\dotnet\Dungeon_Dio\obj\Debug\net6.0\Dungeon_Dio.csproj.AssemblyReference.cache
+C:\development\workspace\dotnet\Dungeon_Dio\obj\Debug\net6.0\Dungeon_Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\workspace\dotnet\Dungeon_Dio\obj\Debug\net6.0\Dungeon_Dio.AssemblyInfoInputs.cache
+C:\development\workspace\dotnet\Dungeon_Dio\obj\Debug\net6.0\Dungeon_Dio.AssemblyInfo.cs
+C:\development\workspace\dotnet\Dungeon_Dio\obj\Debug\net6.0\Dungeon_Dio.csproj.CoreCompileInputs.cache
+C:\development\workspace\dotnet\Dungeon_Dio\obj\Debug\net6.0\Dungeon_Dio.dll
+C:\development\workspace\dotnet\Dungeon_Dio\obj\Debug\net6.0\refint\Dungeon_Dio.dll
+C:\development\workspace\dotnet\Dungeon_Dio\obj\Debug\net6.0\Dungeon_Dio.pdb
+C:\development\workspace\dotnet\Dungeon_Dio\obj\Debug\net6.0\Dungeon_Dio.genruntimeconfig.cache
+C:\development\workspace\dotnet\Dungeon_Dio\obj\Debug\net6.0\ref\Dungeon_Dio.dll
